@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ComparisonCompactor.Tests/ComparisonCompactor.Tests.csproj" />
+  <Project Path="ComparisonCompactor/ComparisonCompactor.csproj" Id="45bf288c-3ca5-4d2d-8b23-841b082a9638" />
+</Solution>
